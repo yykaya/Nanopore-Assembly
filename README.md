@@ -37,7 +37,7 @@ Key steps:
 - `pod5` (for FAST5 conversion)  
 - `dorado` (basecalling & correction) — [GitHub](https://github.com/nanoporetech/dorado)  
 - `samtools`  
-- `flye`  
+- `flye`  — [GitHub](https://github.com/mikolmogorov/Flye) 
 - `Mabs-Flye` (assembly merging & polishing) — [GitHub](https://github.com/shelkmike/Mabs)  
 - `purge_dups` — [GitHub](https://github.com/dfguan/purge_dups)
 - `quickmerge` (hybrid assembly merge)
